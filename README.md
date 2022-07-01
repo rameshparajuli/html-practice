@@ -40,8 +40,8 @@ full video: https://www.youtube.com/watch?v=qz0aGYrrlhU&t=853s&ab_channel=Progra
 - Client request service and Server provide the service.
 - Message is formatted based on a protocol called HTTP.
 
-![](git-assets/clientServer.png)
+![](with-mosh/git-assets/clientServer.png)
 
-### HTTP > Hypertext Transfer Protocol
+### HTTP: Hypertext Transfer Protocol
 
 </details>
