@@ -26,20 +26,21 @@ full video: https://www.youtube.com/watch?v=qz0aGYrrlhU&t=853s&ab_channel=Progra
 <summary> How the web works </summary>
 
 ##### URL: Uniform Resource Location
+
 ### Resources
+
 - Web Pages (HTML Documents)
 - Images
 - Video file
-- Fonts 
+- Fonts
 - ..... so on.......
 
 ### Client Server talks with http request
-> Client request service and Server provide the service.
-> Message is formatted based on a protocol called HTTP.
-> 
 
-![](git-assets/client-server.png)
+- Client request service and Server provide the service.
+- Message is formatted based on a protocol called HTTP.
 
+![]](git-assets/client-server.png)
 
 ### HTTP > Hypertext Transfer Protocol
 
