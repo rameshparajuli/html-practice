@@ -6,9 +6,9 @@ full video: https://www.youtube.com/watch?v=qz0aGYrrlhU&t=853s&ab_channel=Progra
 
 ​
 
-## 1. Basic
+### 1. Basic
 
-## 2. Introduction
+#### 2. Introduction
 
 ## 3. What You Need
 
@@ -32,7 +32,7 @@ full video: https://www.youtube.com/watch?v=qz0aGYrrlhU&t=853s&ab_channel=Progra
 
 ## 13. Text
 
-# 14. Entities
+## 14. Entities
 
 ## 15. Hyperlinks
 
