@@ -6,14 +6,18 @@ full video: https://www.youtube.com/watch?v=qz0aGYrrlhU&t=853s&ab_channel=Progra
 
 ​
 
-### version control system:
+<details>
+<summary> Version Control System: </summary>
 
-> To keep our project history
+- To keep our project history
+- Work collaboratively with others
 
-> Work collaboratively with others
+### Types:
 
 #### 1. Git
 
 #### 2. Subversion (SVN)
 
 #### 3. Mercurial
+
+</details>
