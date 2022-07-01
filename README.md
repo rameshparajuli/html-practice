@@ -44,4 +44,14 @@ full video: https://www.youtube.com/watch?v=qz0aGYrrlhU&t=853s&ab_channel=Progra
 
 ### HTTP: Hypertext Transfer Protocol
 
+- is a language where client and server use to talk to each other.
+- not a programming language
+- just a plain textual language for communicating over the internet
+-
+
+### HTTPS: HTTP + Encryption
+- http with encryption 
+- so the messages between the client and the server are encrypted.
+
+
 </details>
