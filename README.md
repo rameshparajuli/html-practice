@@ -4,6 +4,16 @@
 
 full video: https://www.youtube.com/watch?v=qz0aGYrrlhU&t=853s&ab_channel=ProgrammingwithMosh
 
+<details>
+<summary> Short infomations: </summary>
+
+- metadata summarizes basic information about data.
+- The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly.
+- A browser does not display the HTML tags, but uses them to determine how to display the document.
+- An HTML element is defined by a start tag, some content, and an end tag.
+- HTML is Not Case Sensitive
+</details>
+
 ​
 
 <details>
@@ -50,8 +60,8 @@ full video: https://www.youtube.com/watch?v=qz0aGYrrlhU&t=853s&ab_channel=Progra
 -
 
 ### HTTPS: HTTP + Encryption
-- http with encryption 
-- so the messages between the client and the server are encrypted.
 
+- http with encryption
+- so the messages between the client and the server are encrypted.
 
 </details>
