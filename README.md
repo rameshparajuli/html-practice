@@ -12,6 +12,7 @@ full video: https://www.youtube.com/watch?v=qz0aGYrrlhU&t=853s&ab_channel=Progra
 - A browser does not display the HTML tags, but uses them to determine how to display the document.
 - An HTML element is defined by a start tag, some content, and an end tag.
 - HTML is Not Case Sensitive
+- The <hr> tag is an empty tag, which means that it has no end tag.
 </details>
 
 ​

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cookie Buttons</title>
+    <script>
+      function setCookie(cookieName, cookieValue) {
+        document.cookie = cookieName + "=" + cookieValue + ";path=/";
+      }
+
+      function getCookie(cookieName) {
+        var name = cookieName + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(";");
+        for (var i = 0; i < ca.length; i++) {
+          var c = ca[i];
+          while (c.charAt(0) == " ") {
+            c = c.substring(1);
+          }
+          if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+          }
+        }
+        return "";
+      }
+
+      function deleteCookie(cookieName) {
+        document.cookie =
+          cookieName + "=;expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/;";
+      }
+
+      function displayAllCookies() {
+        var decodedCookie = decodeURIComponent(document.cookie);
+        alert(decodedCookie);
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Cookie Buttons</h1>
+
+    <button onclick="setCookie('cookie1', 'value1')">Set Cookie1</button>
+    <button onclick="setCookie('cookie2', 'value2')">Set Cookie2</button>
+    <button onclick="alert(getCookie('cookie1'))">Get Cookie1</button>
+    <button onclick="alert(getCookie('cookie2'))">Get Cookie2</button>
+    <button onclick="deleteCookie('cookie1')">Delete Cookie1</button>
+    <button onclick="deleteCookie('cookie2')">Delete Cookie2</button>
+    <button onclick="displayAllCookies()">Display all cookies</button>
+  </body>
+</html>
